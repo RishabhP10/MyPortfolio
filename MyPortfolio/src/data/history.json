@@ -1,0 +1,32 @@
+[
+    {
+      "role": "Associate Consultant",
+      "organisation": "Oracle (OFSS)",
+      "startDate": "Jul, 2023",
+      "endDate": "Present",
+      "experiences": ["Designed data pipelines using Python", "Reduced discrepancies via data validation",
+      "Developed multi-threaded Java conversion tool",
+      "Achieved 95% test code coverage",
+      "Utilized JUnit, Mockito, PowerMock frameworks",
+      "Proficient in Java, Spring Boot",
+      "Applied ORM, Hibernate, MVC principles"
+    ],
+      "imageSrc": "history/oracle.png"
+    },
+    {
+      "role": "Trainee",
+      "organisation": "Wipro",
+      "startDate": "May, 2022",
+      "endDate": "Oct, 2022",
+      "experiences": ["Proficient in Java, Spring Boot, and MySQL" ,
+      "Developed RESTful APIs for web applications",
+      "Built a responsive E-Commerce platform",
+      "Integrated authentication and payment systems",      
+      "Improved user experience by 30%",
+      "Achieved 95% backend development efficiency",
+      "Completed Java Full Stack Certification Program"
+      ],
+      "imageSrc": "history/microsoft.png"
+    }
+    
+  ]

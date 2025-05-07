@@ -1,0 +1,50 @@
+[
+  
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "GraphQL",
+      "imageSrc": "skills/graphql.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Oracle Java",
+      "imageSrc": "skills/java.png",
+      "link": "https://drive.google.com/file/d/17htO9AXNGF5kWRhqq7vW2G9EKFoR3BRc/view"
+
+    },
+    {
+      "title": "Oracle SQL",
+      "imageSrc": "skills/sql.png",
+      "link": "https://drive.google.com/file/d/1pQ9pBmLC62aVopWgLHFZubawIdBKB9I4/view?usp=sharing"
+
+    },
+    {
+      "title": "Oracle PLSQL",
+      "imageSrc": "skills/plsql.png",
+      "link": "https://drive.google.com/file/d/1vyLR6RKyVckjor_LXv5OKZjyq-dAEstX/view?usp=sharing"
+
+    },
+    {
+      "title": "Oracle Cloud",
+      "imageSrc": "skills/cloud.png",
+      "link": "https://drive.google.com/file/d/1hh9ab8nRmngJ3M8Zd8SrlPPNzTsa_tMF/view?usp=sharing"
+    }
+  ]
