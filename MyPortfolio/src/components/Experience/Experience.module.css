@@ -84,14 +84,14 @@
     align-items: center;
     gap: 17px;
     background: #19376d;
-    background: linear-gradient(90deg ,#19376d 0%, rgba(25 ,55 ,109, 0) 100% );
+    /* background: linear-gradient(90deg ,#19376d 0%, rgba(25 ,55 ,109, 0) 100% ); */
+    background: linear-gradient(90deg, #664C36 0%,rgba(102, 76, 54, 0) 100%);
     border-radius: 10px;
     padding: 24px;
 }
 
 .historyItem img {
     width: 50px;
-
 }
 
 .historyItemDetails {

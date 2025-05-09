@@ -1,0 +1,30 @@
+[
+    {
+      "title": "MUTUAL FUNDS WEB APP",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a web app for mutual fund management with role-based access. Fund Managers can create mutual funds, while Investors can buy or sell them",
+      "skills": ["Spring Boot", "JPA" ,"Oracle SQL","HTML", "CSS", "JavaScript"]
+      
+    },
+    {
+      "title": "BANK MANAGEMENT SYSTEM",
+      "imageSrc": "projects/BankManagement.jpg",
+      "description": "Developed a web app for banking transactions like withdrawals, deposits and bank statements. Implemented OTP-based email verification for secure withdrawals.",
+      "skills": ["Java Mail API" , "Java" , "SQL" , "HTML" , "CSS"]
+      
+    },
+    {
+      "title": "E-COMMERCE WEBSITE",
+      "imageSrc": "projects/E-Commerce.png",
+      "description": "Website enables users to browse products, manage carts, and place orders securely using an payment gateway for safe and seamless online transactions.",
+      "skills": ["Java" , "SQL" , "HTML" ,"BootStrap"]
+      
+    },
+    {
+        "title": "PORTFOLIO WEBSITE",
+        "imageSrc": "projects/Portfolio.png",
+        "description": "A responsive portfolio website showcasing my projects, skills, and experience, featuring clean design, contact form, and interactive sections to highlight my professional journey and work.",
+        "skills": ["JavaScript" , "React" ,"CSS"]
+        
+      }
+  ]

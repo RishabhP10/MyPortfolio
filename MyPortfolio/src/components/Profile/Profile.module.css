@@ -32,7 +32,7 @@
     );
 
     -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text; */
+    -webkit-background-clip: text;  */
 
 }
 
@@ -45,13 +45,14 @@
 
 .contactBtn {
     text-decoration: none;
-    background-color: var(--color-primary);
+    /* background-color: var(--color-primary); */
+    background-color: rgb(115, 78, 43);
     color: var(--color-text);
     border-radius: 100px;
     font-size: 30px;
     font-weight: 600;
     padding: 17px 26px;
-    box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
+    box-shadow: 0 0 4px 0 rgba(16, 0, 0, 0.25);
 }
 
 .profileImg {
@@ -87,7 +88,8 @@
     top: -128px;
     left: -10vw;
     border-radius: 764px;
-    background: rgba(25, 55, 109, 0.7);
+    background:/*rgba(25, 55, 109, 0.7);*/     rgba(102, 76, 54, 0.2); 
+
     filter: blur();
     z-index: 0;
 
@@ -102,7 +104,7 @@
     top: 246px;
     right: -25vw;
     border-radius: 764px;
-    background: rgba(25, 55, 109, 0.7);
+    background: /*rgba(25, 55, 109, 0.7);*/     rgba(102, 76, 54, 0.2); 
     filter: blur();
     z-index: 0;
     
