@@ -1,7 +1,7 @@
 [
     {
       "title": "MUTUAL FUNDS WEB APP",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/mutualfund.png",
       "description": "Developed a web app for mutual fund management with role-based access. Fund Managers can create mutual funds, while Investors can buy or sell them",
       "skills": ["Spring Boot", "JPA" ,"Oracle SQL","HTML", "CSS", "JavaScript"]
       
@@ -9,7 +9,7 @@
     {
       "title": "BANK MANAGEMENT SYSTEM",
       "imageSrc": "projects/BankManagement.jpg",
-      "description": "Developed a web app for banking transactions like withdrawals, deposits and bank statements. Implemented OTP-based email verification for secure withdrawals.",
+      "description": "Developed a web app for banking transactions like withdrawals, deposits and bank statements.Implemented OTP-based email verification for secure withdrawals.",
       "skills": ["Java Mail API" , "Java" , "SQL" , "HTML" , "CSS"]
       
     },

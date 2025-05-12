@@ -1,0 +1,58 @@
+@import "../../vars.css";
+
+.container {
+    color: var(--color-text);
+    text-align: center;
+    padding: 40px 20px;
+    font-family: var(--font-roboto);
+    border-top: 4px solid var(--color-dark);
+    border-radius: 12px;
+    padding: 30px;
+    margin: 40px 20px;  
+  }
+  
+ .container h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    font-weight: normal;
+  }
+
+  .container p {
+    color: var(--color-text);
+    font-size: 14px;
+  }
+  
+  .content {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    padding: 0;
+  }
+  
+  .content li a {
+    color: #ff00cc;
+    transition: transform 0.2s ease, color 0.3s ease;
+  }
+  
+  .content li a:hover {
+    transform: scale(1.1);
+    color: #00e0ff;
+  }
+  
+  .dot {
+    margin: 0 10px;
+  }
+ 
+  .icon {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+    transition: transform 0.2s;
+  }
+  
+  .icon:hover {
+    transform: scale(1.1);
+  }
