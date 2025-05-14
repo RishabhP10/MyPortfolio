@@ -1,0 +1,93 @@
+@import "../../vars.css";
+
+
+.container {
+    padding: 60px 10%;
+    background-color: var(--color-bg);
+  }
+  
+  .content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 50px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  
+  .contact {
+    flex: 1;
+    font-size: 18px;
+    color: var(--color-text);
+    line-height: 1.6;
+    font-family: var(--font-roboto);
+  }
+
+  .heading {
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  
+  .title {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 500px;
+    font-family: var(--font-roboto);
+  }
+  
+  .name,
+  .email,
+  .msg {
+    padding: 10px 15px;
+    border: 1px solid var(--color-secondary);
+    border-radius: 6px;
+    font-size: 16px;
+    background-color: var(--color-bg);
+    color: var(--color-text);
+  }
+  
+  .name::placeholder,
+  .email::placeholder,
+  .msg::placeholder {
+    color: var(--color-secondary);
+  }
+  
+  .msg {
+    resize: vertical;
+    min-height: 100px;
+  }
+  
+  .submitBtn {
+    padding: 12px;
+    background-color: var(--color-primary);
+    color: var(--color-dark);
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .submitBtn:hover {
+    background-color: var(--color-secondary);
+  }
+  
+  .success {
+    color: #4BB543;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
+  .error {
+    color: #ff4d4f;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 16px;
+  }
