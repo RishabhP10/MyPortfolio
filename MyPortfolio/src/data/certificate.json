@@ -1,37 +1,5 @@
 [
-  
-    {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
-    },
-    {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
-    },
-    {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
-    },
-    {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
-    },
-    {
-      "title": "React",
-      "imageSrc": "skills/react.png"
-    },
-    {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
-    },
-    {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
-    },
-    {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
-    },
+
     {
       "title": "Oracle Java",
       "imageSrc": "skills/java.png",
@@ -54,5 +22,40 @@
       "title": "Oracle Cloud",
       "imageSrc": "skills/cloud.png",
       "link": "https://drive.google.com/file/d/1hh9ab8nRmngJ3M8Zd8SrlPPNzTsa_tMF/view?usp=sharing"
+    },
+  
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "Java Script",
+      "imageSrc": "skills/js.png"
+    },
+    {
+      "title": "Spring",
+      "imageSrc": "skills/spring.png"
+    },
+    {
+      "title": "GIT",
+      "imageSrc": "skills/git.png"
     }
+
+    
   ]

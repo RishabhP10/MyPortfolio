@@ -21,8 +21,13 @@ export const Footer = () => {
                         </a>
                     </li>
                     <li>
-                        <a href="https://drive.google.com/file/d/1c7esOx7S-iu4XNCQZTVPWBB-AZBTmCy8/view" target="_blank" rel="noopener noreferrer"> 
+                        <a href="https://drive.google.com/file/d/1lQgmLWQInU9hgg4bfGZHOD2iDd2isu-C/view?usp=sharing" target="_blank" rel="noopener noreferrer"> 
                         <img src = {getImageUrl("footer/resume.png")} alt="Resume"  className={styles.icon} />    
+                        </a>
+                    </li>
+                    <li>
+                        <a href=" https://github.com/RishabhP10" target="_blank" rel="noopener noreferrer"> 
+                        <img src = {getImageUrl("footer/github.png")} alt="Github"  className={styles.icon} />    
                         </a>
                     </li>
                 </ul>

@@ -34,7 +34,7 @@ export const About = () => {
                         <div className = {styles.aboutItemText}>
                             <h3>PROGRAMMING </h3>
                             <p>
-                            Skilled in Java, C++, and 
+                            Skilled in Java, ReactJS, and 
                             Python for backend development 
                             proficient in JavaScript, HTML 
                             for web, and experienced with 

@@ -11,14 +11,17 @@ export const Experience = () => {
             <div className={styles.content}>
                 <div className={styles.skills}>{
                     certificate.map((certificate,id) => {
+                        const hasLink = Boolean(certificate.link);
                         return <div key={id} className={styles.skill}>
                             <div className={styles.skillImageContainer}><img src={getImageUrl(certificate.imageSrc)} alt={certificate.title} /></div>
                             <p>
+                            {hasLink ? (
                                 <a href={certificate.link} target="_blank" rel="noopener noreferrer"
                                 className={styles.certificateLink}
                                 >
-                            {certificate.title}
+                            {certificate.title}🔗
                             </a>
+                            ) : (certificate.title)}
                             </p>
                             
                         </div>

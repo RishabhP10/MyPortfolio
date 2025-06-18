@@ -26,5 +26,26 @@
         "description": "A responsive portfolio website showcasing my projects, skills, and experience, featuring clean design, contact form, and interactive sections to highlight my professional journey and work.",
         "skills": ["JavaScript" , "React" ,"CSS"]
         
+      },
+      {
+        "title": "TO-DO",
+        "imageSrc": "projects/dailytask.png",
+        "description": "A simple To-Do web app built using React.js, featuring task management, different modes, and a clean user interface for organizing daily activities efficiently.",
+        "skills": ["JavaScript" , "ReactJS" ,"CSS"],
+        "demo": "https://regulartask.netlify.app/",
+        "source": "https://github.com/RishabhP10/DailyTask",
+        "hasLinks": true
+        
+        
+      },
+      {
+        "title": "BLOG WRITING",
+        "imageSrc": "projects/writeblog.png",
+        "description": "A blog website built with Firebase authentication and database, allowing users to sign in securely, create blog posts, manage content, and interact in real-time.",
+        "skills": ["ReactJS" ,"Tailwind-CSS"],
+        "demo": "https://notesight.netlify.app/",
+        "source": "https://github.com/RishabhP10/PenDown",
+         "hasLinks": true
+        
       }
   ]
